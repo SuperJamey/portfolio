@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobiwave/simplefolio.git"
+    "url": "git+https://github.com/SuperJamey/portfolio.git"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobiwave/simplefolio/issues"
+    "url": "https://github.com/SuperJamey/portfolio.git"
   },
   "homepage": "https://github.com/SuperJamey/portfolio.git",
   "devDependencies": {
