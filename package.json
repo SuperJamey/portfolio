@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/SuperJamey/portfolio.git"
   },
-  "homepage": "https://github.com/SuperJamey/portfolio.git",
+  "homepage": "https://superjamey.github.io/portfolio",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",
