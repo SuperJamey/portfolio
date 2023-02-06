@@ -6,7 +6,7 @@
   "source": "src/index.html",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b main -d build",
     "start": "parcel",
     "build": "parcel build"
   },
